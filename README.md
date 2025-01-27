@@ -2,21 +2,8 @@
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/Bash-the-Kernel/Bash-the-Kernel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bash-the-Kernel&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/Bash-the-Kernel/Bash-the-Kernel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bash-the-Kernel&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="My GitHub Stats" />
-</a>
+![Bash-the-Kernel's Stats](https://github-readme-stats.vercel.app/api?username=Bash-the-Kernel&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 
-<a href="https://github.com/Bash-the-Kernel/Memory-Game-Project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Bash-the-Kernel&Memory-Game-Project&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-
-<a href="https://github.com/Bash-the-Kernel/Blowback-Operations">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Bash-the-Kernel&Blowback-Operations&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
 
 
 
