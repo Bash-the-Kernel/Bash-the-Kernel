@@ -6,6 +6,35 @@
 
 ![Bash-the-Kernel's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bash-the-Kernel&theme=chartreuse-dark&show_icons=true&hide_border=false&layout=compact)
 
+## 🔥 Top Programming Languages
+
+- C#
+- JavaScript
+- Python
+- C++
+- Bash
+
+## 🎯 Cool C# Code Example
+
+```csharp
+using System;
+
+class Program
+{
+    static void Main()
+    {
+        Console.WriteLine("Hello, GitHub! Here’s a cool C# one-liner:");
+        Console.WriteLine(Factorial(5)); // Output: 120
+    }
+
+    static int Factorial(int n) => (n <= 1) ? 1 : n * Factorial(n - 1);
+}
+```
+
+
+## 📸 Profile Picture
+
+![Your Profile Picture](https://github.com/Bash-the-Kernel.png)
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
