@@ -12,7 +12,7 @@
 - JavaScript
 - Python
 - C++
-- Bash
+- Java
 
 ## 🎯 Cool C# Code Example
 
